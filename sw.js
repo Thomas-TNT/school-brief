@@ -1,6 +1,6 @@
 /* Offline cache for the installed app. Caches the encrypted shell only —
    the payload stays ciphertext at rest, exactly as it is on the network. */
-const CACHE = "school-brief-20260816165215";
+const CACHE = "school-brief-20260816170925";
 const ASSETS = [
   "./",
   "./index.html",
